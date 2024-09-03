@@ -1,17 +1,10 @@
 public class TipeDataCharacterDanBoolean {
     public static void main(String[] args) {
+        // tipe data boolean
+        boolean benar = true;
+        boolean salah = false;
 
-        short tipeDataSHort = 10;
-        int tipeDataInt = tipeDataSHort;
-        long tipeData = tipeDataInt;
-
-        // Narrwing You, Moments ago
-        int tipeDataInteger2 = 10;
-        byte tipeDataByte = (byte) tipeDataInteger2;
-
-        //Number overflow
-        int tipeDataInteger = 128;
-        byte tipeDataByteConverted = (byte) tipeDataInteger;
-        System.out.println(tipeDataByteConverted);
+        // tipe data character
+        char hurufJ = 'j';
     }
 }

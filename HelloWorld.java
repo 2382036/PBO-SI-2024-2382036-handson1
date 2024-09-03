@@ -1,2 +1,8 @@
 public class HelloWorld {
-    Public class main }
+    public static void main(String[] args) {
+        // CODE PROGRAM
+
+        System.out.println("Hello World");
+
+    }
+}
